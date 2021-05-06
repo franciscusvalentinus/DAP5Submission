@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anggota IOI</string>
+    <string name="nama_makanan">Nama Anggota</string>
+    <string name="detail_makanan">Detail Anggota</string>
+    <string name="menuInflater"></string>
+
+</resources>
